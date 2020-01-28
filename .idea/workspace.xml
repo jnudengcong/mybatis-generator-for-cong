@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c14a6e37-2fd5-417c-9fab-2bfb5ddf4789" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="/maven/repository" />
+        <option name="mavenHome" value="/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="/maven/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="47" />
+    <option name="y" value="37" />
+    <option name="width" value="1394" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectId" id="1X1jmGcjjI7y8A7xWudYXZo7JOF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572790940244" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.25714287" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cong.mybatis.utils" />
+      <recent name="com.cong.my.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\javaProject\workspaces\mybatis-generator-for-cong\target" />
+      <recent name="$PROJECT_DIR$/src/main/resources/mapper" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GeneratorDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cong.mybatis.utils.GeneratorDisplay" />
+      <module name="mybatis-generator-for-cong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cong.mybatis.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GeneratorDisplay" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c14a6e37-2fd5-417c-9fab-2bfb5ddf4789" name="Default Changelist" comment="" />
+      <created>1561093994343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561093994343</updated>
+      <workItem from="1561093995654" duration="1665000" />
+      <workItem from="1561117208618" duration="443000" />
+      <workItem from="1561266696232" duration="1474000" />
+      <workItem from="1561345954375" duration="306000" />
+      <workItem from="1561358275554" duration="340000" />
+      <workItem from="1561982434806" duration="1077000" />
+      <workItem from="1562209370025" duration="901000" />
+      <workItem from="1562228362305" duration="581000" />
+      <workItem from="1562243052751" duration="735000" />
+      <workItem from="1563083983198" duration="56000" />
+      <workItem from="1563086846399" duration="67000" />
+      <workItem from="1563265334939" duration="92000" />
+      <workItem from="1563278343135" duration="373000" />
+      <workItem from="1563280152394" duration="132000" />
+      <workItem from="1563363496792" duration="71000" />
+      <workItem from="1563416050868" duration="256000" />
+      <workItem from="1563418467968" duration="68000" />
+      <workItem from="1563418736354" duration="487000" />
+      <workItem from="1563499529689" duration="209000" />
+      <workItem from="1563688958898" duration="57000" />
+      <workItem from="1563707445050" duration="53000" />
+      <workItem from="1563766224392" duration="212000" />
+      <workItem from="1563960220226" duration="229000" />
+      <workItem from="1564316009429" duration="386000" />
+      <workItem from="1565416855330" duration="2936000" />
+      <workItem from="1565428668329" duration="333000" />
+      <workItem from="1565521327054" duration="1468000" />
+      <workItem from="1572790917689" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15032000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="322" y="91" key="#Project_Structure" timestamp="1580221680703">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="322" y="91" key="#Project_Structure/0.0.1458.864@0.0.1458.864" timestamp="1580221680703" />
+    <state x="392" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1580220768680">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="392" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1458.864@0.0.1458.864" timestamp="1580220768680" />
+  </component>
+</project>
