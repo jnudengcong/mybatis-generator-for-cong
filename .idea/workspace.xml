@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c14a6e37-2fd5-417c-9fab-2bfb5ddf4789" name="Default Changelist" comment="" />
+    <list default="true" id="c14a6e37-2fd5-417c-9fab-2bfb5ddf4789" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/generatorConfig.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -23,7 +29,9 @@
     <option name="height" value="877" />
   </component>
   <component name="ProjectId" id="1X1jmGcjjI7y8A7xWudYXZo7JOF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -123,6 +131,22 @@
       <screen x="0" y="0" width="1458" height="864" />
     </state>
     <state x="322" y="91" key="#Project_Structure/0.0.1458.864@0.0.1458.864" timestamp="1580221680703" />
+    <state width="1416" height="279" key="GridCell.Tab.0.bottom" timestamp="1580231548912">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1416" height="279" key="GridCell.Tab.0.bottom/0.0.1458.864@0.0.1458.864" timestamp="1580231548912" />
+    <state width="1416" height="279" key="GridCell.Tab.0.center" timestamp="1580231548912">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1416" height="279" key="GridCell.Tab.0.center/0.0.1458.864@0.0.1458.864" timestamp="1580231548912" />
+    <state width="1416" height="279" key="GridCell.Tab.0.left" timestamp="1580231548912">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1416" height="279" key="GridCell.Tab.0.left/0.0.1458.864@0.0.1458.864" timestamp="1580231548912" />
+    <state width="1416" height="279" key="GridCell.Tab.0.right" timestamp="1580231548912">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1416" height="279" key="GridCell.Tab.0.right/0.0.1458.864@0.0.1458.864" timestamp="1580231548912" />
     <state x="392" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1580220768680">
       <screen x="0" y="0" width="1458" height="864" />
     </state>
